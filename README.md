@@ -24,7 +24,7 @@ pkg install python
 git clone https://github.com/NamaKamu/tools-termux-shardox.git
 cd tools-termux-shardox
 pip install pyotp qrcode colorama requests
-python shardox.py
+python shardox.py```
 
 🛠️ Konfigurasi Gmail
 Untuk mengirim email, Anda memerlukan:
