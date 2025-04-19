@@ -27,13 +27,13 @@ pip install pyotp qrcode colorama requests
 python shardox.py
 ```
 
-🛠️ Konfigurasi Gmail
+# 🛠️ Konfigurasi Gmail
 Untuk mengirim email, Anda memerlukan:
 
 - Email Gmail aktif
 - App Password (bukan password biasa)
 
-Langkah membuat App Password:
+## Langkah membuat App Password:
 
 - Aktifkan 2-Step Verification di akun Gmail Anda.
 - Buka https://myaccount.google.com/apppasswords
